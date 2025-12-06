@@ -1,1 +1,5 @@
+Task 2A Payload
 AAAA .08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x %.08x // Should show 0x41414141 at the end
+
+Task 2B Payload
+[\x08\x0b\x40\x08]%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%s // Should show A secret message at the end; bits at the beginning should be converted using python. 
