@@ -1,0 +1,8 @@
+Task 3A
+[\x08\x0b\x40\x08]%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%n // Should change the target value to a small number, bits have to be changed to actual bitecode in python.
+
+Task 3B
+[\x08\x0b\x40\x08]%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%19980.08x%n // Should change the target value to 0x5000, bits have to be changed to actual bitecode in python.
+
+Task 3C
+[\x08\x0b\x40\x08][\x08\x0b\x40\x08][\x0A\x0b\x40\x08]%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%.08x%51937.08x%hn%56798.08x%hn // Should change the target value to 0xAABBCCDD, bits have to be changes to actual bitecode in pyhton.
